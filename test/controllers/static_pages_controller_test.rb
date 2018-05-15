@@ -38,4 +38,4 @@ class StaticPagesControllerTest < ActionDispatch::IntegrationTest
 end
 
 
-# Listing 5.3.2
+# Listing 6.1.5
