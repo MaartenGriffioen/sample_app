@@ -38,4 +38,4 @@ class StaticPagesControllerTest < ActionDispatch::IntegrationTest
 end
 
 
-# Listing 6.4.1
+# 7.3.4 A test for invalid submission
